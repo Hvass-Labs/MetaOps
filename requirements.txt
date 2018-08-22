@@ -1,0 +1,19 @@
+################################################################
+#
+# Python package requirements for MetaOps:
+# https://github.com/Hvass-Labs/MetaOps
+#
+# If you are using Anaconda then you can install all required
+# Python packages by running the following commands in a shell:
+#
+#     conda create --name MetaOps python=3.6
+#     source activate MetaOps
+#     pip install -r requirements.txt
+#
+################################################################
+
+numpy
+pygmo               # Heuristic optimizers: DE, PSO, NSGA2, etc.
+scikit-optimize     # Bayesian Optimization.
+
+################################################################
