@@ -13,6 +13,7 @@
 ################################################################
 
 numpy
+matplotlib
 pygmo               # Heuristic optimizers: DE, PSO, NSGA2, etc.
 scikit-optimize     # Bayesian Optimization.
 
