@@ -20,6 +20,7 @@ or [Hyper-Parameter Optimization](https://en.wikipedia.org/wiki/Hyperparameter_o
 ## Papers
 
 1. Bayesian Meta-Optimization ([Notebook](https://github.com/Hvass-Labs/MetaOps/blob/master/01_Bayesian_Meta-Optimization.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/MetaOps/blob/master/01_Bayesian_Meta-Optimization.ipynb))
+2. Multi-Objective Meta-Optimization ([Notebook](https://github.com/Hvass-Labs/MetaOps/blob/master/02_Multi-Objective_Meta-Optimization.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/MetaOps/blob/master/02_Multi-Objective_Meta-Optimization.ipynb))
 
 
 ## Videos
